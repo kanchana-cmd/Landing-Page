@@ -1,5 +1,9 @@
 /*all the main units defies here*/
 
+.div
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .unit2{ /*Header and Footer Colors*/
     background-color: #1f2937 ;
 
@@ -8,6 +12,7 @@
 { /*Body Section 1*/
     background-color: white;
     color: #1f2937;
+    height: 250pt;
 }
     
 .unit4{
@@ -32,9 +37,52 @@
 
 }
 
+.pa3
+{
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.pa4
+{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.pa5
+{
+    font-weight: bold;
+    text-align: end;
+
+}
+.pa6
+{
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+}
+
+.pa7
+{
+    background-color: #3882f6;
+    color: white;
+    
+}
+.pa8
+{
+    
+    color: white;
+    text-align: center;
+    
+}
 /*all buttons will appear here*/
 .signup
     { /*sign up button*/
         background-color: #3882f6;
         color:white;
+        box-sizing: border-box;
+        border-radius: 20px;
+        
     }
