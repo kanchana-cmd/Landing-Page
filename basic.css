@@ -1,0 +1,40 @@
+/*all the main units defies here*/
+
+.unit2{ /*Header and Footer Colors*/
+    background-color: #1f2937 ;
+
+}
+.unit3
+{ /*Body Section 1*/
+    background-color: white;
+    color: #1f2937;
+}
+    
+.unit4{
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+
+
+/*all the paragraphs defined here*/
+.pa1 
+{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.pa2
+{
+    color: #e5e7eb;
+    font-size: 18px;
+
+}
+
+/*all buttons will appear here*/
+.signup
+    { /*sign up button*/
+        background-color: #3882f6;
+        color:white;
+    }
